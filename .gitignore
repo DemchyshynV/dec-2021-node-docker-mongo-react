@@ -3,3 +3,4 @@
 aws.zip
 mongo_db
 dec-2021-node-docker.iml
+**/yarn.lock
