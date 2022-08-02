@@ -1,0 +1,5 @@
+.idea
+**/node_modules
+aws.zip
+mongo_db
+dec-2021-node-docker.iml
